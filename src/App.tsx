@@ -94,7 +94,7 @@ const App: React.FC = () => {
             <p>Coding projects aimed at enhancing the way humans use computers to solve tasks</p>
           </div>
           <div className="benefit">
-          <img src="/src/Public/HCIConcept.jpeg" alt="HCI (Concept) Track Picture" className="w-64 h-32 mx-auto mb-2"/>
+          <img src="/src/Public/HCIConcept.jpeg" alt="HCI (Concept) Track Picture"/>
             <h3>HCI (Concept)</h3>
             <p>Low to No Code projects presenting ideas for better interfaces humans can use for solving tasks</p>
           </div>
