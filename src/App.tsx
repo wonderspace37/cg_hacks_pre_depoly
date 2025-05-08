@@ -218,9 +218,10 @@ const App: React.FC = () => {
           </div>
           <div className="sponsorship-levels">
           <div className="sponsor-card">
-            <h3>Timings</h3>
+            <h3>Times</h3>
             <ul>
-              <li><strong>8:30 AM</strong> — Check-in & Breakfast<br /><em>Registration desk open, coffee & snacks</em></li>
+            <li><strong>Coming Soon!</strong><br /></li>
+              {/* <li><strong>8:30 AM</strong> — Check-in & Breakfast<br /><em>Registration desk open, coffee & snacks</em></li>
               <li><strong>9:00 AM</strong> — Opening Ceremony<br /><em>Welcome, theme reveal, sponsor intros</em></li>
               <li><strong>9:30 AM</strong> — Team Formation & Ideation Begins<br /><em>Icebreakers if needed for team creation</em></li>
               <li><strong>10:00 AM</strong> — Hacking Begins<br /><em>Mentors available for guidance</em></li>
@@ -233,7 +234,7 @@ const App: React.FC = () => {
               <li><strong>7:15 PM</strong> — Project Demos & Presentations<br /><em>3–5 mins per team</em></li>
               <li><strong>8:15 PM</strong> — Judging + Audience Voting<br /><em>Judges deliberate, attendees vote</em></li>
               <li><strong>8:45 PM</strong> — Awards & Closing Ceremony<br /><em>Prizes, photos, shout-outs</em></li>
-              <li><strong>9:00 PM</strong> — Event Wrap-Up + Socializing / Networking<br /><em>Chill vibes, music, casual chats</em></li>
+              <li><strong>9:00 PM</strong> — Event Wrap-Up + Socializing / Networking<br /><em>Chill vibes, music, casual chats</em></li> */}
             </ul>
           </div>
         </div>
