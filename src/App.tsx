@@ -171,7 +171,7 @@ const App: React.FC = () => {
           </div>
           <div className="sponsor-card">
             <h3>What should I bring to the hackathon?</h3>
-            <p>Participants should bring laptop, charger, (maybe Emotiv’s software). We have free food and drinks!
+            <p>Participants should bring laptop, charger, Emotiv's software (We will provide a link on how to get that). We have free food and drinks!
             </p>
           </div>
           <div className="sponsor-card">
