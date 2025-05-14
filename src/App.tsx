@@ -63,7 +63,7 @@ const App: React.FC = () => {
               href="#contact"
               className="cta-button"
             >
-              Register Now
+              Sign up for updates!
             </a>
         </div>
       </section>
@@ -85,8 +85,8 @@ const App: React.FC = () => {
         <div className="benefits">
           <div className="benefit">
           <img src="/src/Public/1.png" alt="BCI Track Picture"/>
-            <h3>BCI</h3>
-            <p>Introduce/demonstrate general BCI data flow to attendees and provide resources for BCI powered projects </p>
+          <h3>BCI</h3>
+          <p>Introduce/demonstrate general BCI data flow to attendees and provide resources for BCI powered projects</p>
           </div>
           <div className="benefit">
           <img src="/src/Public/2.png" alt="HCI Track Picture"/>
