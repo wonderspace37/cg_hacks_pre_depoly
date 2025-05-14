@@ -84,23 +84,23 @@ const App: React.FC = () => {
         <h2 className="section-title">The Tracks.</h2>
         <div className="benefits">
           <div className="benefit">
-          <img src="/src/Public/BCIConnekt.png" alt="BCI Track Picture"/>
+          <img src="/src/Public/1.png" alt="BCI Track Picture"/>
             <h3>BCI</h3>
             <p>Introduce/demonstrate general BCI data flow to attendees and provide resources for BCI powered projects </p>
           </div>
           <div className="benefit">
-          <img src="/src/Public/HCICoder.jpg" alt="HCI Track Picture"/>
+          <img src="/src/Public/2.png" alt="HCI Track Picture"/>
             <h3>HCI</h3>
             <p>Coding projects aimed at enhancing the way humans use computers to solve tasks</p>
           </div>
           <div className="benefit">
-          <img src="/src/Public/HCIConcept.jpeg" alt="HCI (Concept) Track Picture" className="w-[330px] h-[215px] mx-auto mb-4"/>
+          <img src="/src/Public/3.png" alt="HCI (Concept) Track Picture"/>
             <h3>HCI (Concept)</h3>
             <p>Low to No Code projects presenting ideas for better interfaces humans can use for solving tasks</p>
           </div>
           <div className="benefit">
-          <img src="/src/Public/AI.png" alt="AI Track Picture" className="w-[330px] h-[215px] mx-auto mb-4"/>
-            <h3>Agentic AI:</h3>
+          <img src="/src/Public/4.png" alt="AI Track Picture"/>
+            <h3>Agentic AI</h3>
             <p>AI track focused on developing AI powered Agents to help with automation and do other capabilites </p>
           </div>
         </div>
